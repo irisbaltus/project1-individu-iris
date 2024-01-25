@@ -188,7 +188,7 @@ footer img {
 }
 
 .lauradols article img{
-    opacity: 50%;
+    opacity: 60%;
 }
 
 .lauradols article{
@@ -211,7 +211,7 @@ footer img {
 }
 
 .lauradols ul img{
-    width: 31vw;  
+    width: 29.5vw;  
 }
 
 .zipper ul, .zipper p{
@@ -220,4 +220,12 @@ footer img {
 
 .zipper h1{
     margin-bottom: 0;
+}
+
+.rosarosas main img:nth-of-type(2){
+    opacity: 70%;
+}
+
+.rosarosas p{
+    border: 1em solid white;
 }
