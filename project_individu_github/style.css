@@ -144,7 +144,7 @@ section{
 
 .ijhallen{
     margin: 0;
-    margin-top: -0.5em;
+    
 }
 .zipper ul:nth-of-type(2){
     display: flex;
@@ -153,7 +153,6 @@ section{
     scroll-snap-type: x mandatory;
     overscroll-behavior: contain auto;
     padding: 0;
-    /* margin-right: 1em; */
     margin-block: 0;
     
 }
@@ -178,7 +177,7 @@ footer {
 }
 
 footer img {
-    width: 10vw;
+    width: 30px;
     color: rgb(157, 39, 39);
     margin-bottom: 1.5em;   
 }
@@ -193,6 +192,7 @@ footer img {
 
 .lauradols article{
     margin-top: -6.2em;
+    width: 375px;
 }
 
 .lauradols ul{
